@@ -1,4 +1,4 @@
-###Modified project of: https://github.com/Lucifer1993/struts-scan
+##Modified project of: https://github.com/Lucifer1993/struts-scan
 [Modification] Work on Python3 
 [Modification] Translated to English
 
