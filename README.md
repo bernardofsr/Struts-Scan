@@ -14,7 +14,9 @@ Python3 under MAC/Linux
 
 # Usage
 python3 struts-scan.py "http://example.com"
+
 or
+
 python3 struts-scan.py "http://example.com/anyaction.action"
 
 # Support the detection of the following versions
