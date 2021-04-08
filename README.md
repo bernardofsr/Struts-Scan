@@ -1,7 +1,10 @@
 ### Modified project of: https://github.com/Lucifer1993/struts-scan
 Modifications:
+
 🐍 Work on Python3
+
 🌎 Translated to English
+#
 
 # Struts-scan
 Quickly detect vulnerabilities in struts command execution, and can be batched.
