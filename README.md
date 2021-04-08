@@ -25,6 +25,8 @@ python3 struts-scan.py "http://example.com"
 python3 struts-scan.py "http://example.com/anyaction.action"
 
 python struts-scan.py -f url.txt
+
+python struts-scan.py -u http://example.com/index.action -i struts2-*
 ```
 
 # Support the detection of the following versions
