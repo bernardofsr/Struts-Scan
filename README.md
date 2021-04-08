@@ -22,9 +22,9 @@ Python3 under MAC/Linux
 ```
 python3 struts-scan.py "http://example.com"
 
-or
-
 python3 struts-scan.py "http://example.com/anyaction.action"
+
+python struts-scan.py -f url.txt
 ```
 
 # Support the detection of the following versions
