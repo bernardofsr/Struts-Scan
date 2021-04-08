@@ -1,4 +1,6 @@
 ### Modified project of: https://github.com/Lucifer1993/struts-scan
+#
+
 Modifications:
 ```
 🐍 Work on Python3
@@ -62,28 +64,13 @@ ST2-053
 ST2-057
 ```
 
-# increase
-[+] Shell command interaction for each version
+# Refereces
+```
+https://github.com/Ivan1ee/struts2-057-exp
 
-[+]struts2-052 detection (will be added after the use)
+https://github.com/Lucifer1993/struts-scan
+```
 
-[+]struts2-053 detection + utilization (need to provide parameters)
+# Note
 
-[+] Reasons for output timeout during detection
-
-[+] Compatible with HTTP/1.0, fixed the problem of inaccurate detection of struts-045
-
-[+]struts2-046 detection + utilization
-
-[+]Modify the payload of struts2-048
-
-[+] For some timeout situations, comment out the httplib.HTTPConnection._http_vsn = 10 and httplib.HTTPConnection._http_vsn_str ='HTTP/1.0' two lines and test again, because some may not support the HTTP/1.0 protocol.
-
-[+] Add executable files for linux and win, windows needs .NET environment.
-
-[+] Added the function of writing files, the success.txt file will be automatically written for the struts version number with vulnerabilities.
-
-[+] Increase the detection and utilization of struts2-057, the production environment has not yet found a usable example, it is a tasteless hole, refer to https://github.com/Ivan1ee/struts2-057-exp
-
-# Special Note
 This tool is limited to vulnerability verification. If the user causes related legal liabilities, please take your own responsibility, and the developer does not assume joint and several liabilities.
