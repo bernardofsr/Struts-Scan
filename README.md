@@ -9,11 +9,11 @@
 ```
 #
 
-# Struts-scan
+# Struts-Scan
 ```
 Quickly detect vulnerabilities in struts command execution, and can be batched.
 ```
-# Operating environment
+# Operating Environment
 ```
 Python3 under MAC/Linux
 ```
@@ -24,9 +24,9 @@ python3 struts-scan.py "http://example.com"
 
 python3 struts-scan.py "http://example.com/anyaction.action"
 
-python struts-scan.py -f url.txt
+python3 struts-scan.py -f url.txt
 
-python struts-scan.py -u http://example.com/index.action -i struts2-*
+python3 struts-scan.py -u http://example.com/index.action -i struts2-*
 ```
 
 # Support the detection of the following versions
