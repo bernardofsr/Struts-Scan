@@ -64,7 +64,7 @@ ST2-053
 ST2-057
 ```
 
-# Refereces
+# References
 ```
 https://github.com/Ivan1ee/struts2-057-exp
 
@@ -72,5 +72,6 @@ https://github.com/Lucifer1993/struts-scan
 ```
 
 # Note
-
+```
 This tool is limited to vulnerability verification. If the user causes related legal liabilities, please take your own responsibility, and the developer does not assume joint and several liabilities.
+```
