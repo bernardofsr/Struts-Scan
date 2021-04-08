@@ -1,14 +1,14 @@
-##Modified project of: https://github.com/Lucifer1993/struts-scan
+### Modified project of: https://github.com/Lucifer1993/struts-scan
 [Modification] Work on Python3 
 [Modification] Translated to English
 
-# struts-scan
+# Struts-scan
 Quickly detect vulnerabilities in struts command execution, and can be batched.
 
 # Operating environment
 Python3 under MAC/Linux
 
-#Usage
+# Usage
 python3 struts-scan.py "http://example.com"
 or
 python3 struts-scan.py "http://example.com/anyaction.action"
