@@ -6,6 +6,7 @@ Modifications:
 🌎 Translated to English
 #
 
+```
 # Struts-scan
 Quickly detect vulnerabilities in struts command execution, and can be batched.
 
@@ -18,6 +19,7 @@ python3 struts-scan.py "http://example.com"
 or
 
 python3 struts-scan.py "http://example.com/anyaction.action"
+```
 
 # Support the detection of the following versions
 
