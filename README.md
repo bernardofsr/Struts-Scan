@@ -11,7 +11,7 @@
 
 # Struts-Scan
 ```
-Quickly detect vulnerabilities in struts command execution, and can be batched.
+Quickly detect vulnerabilities in Apache Struts 2
 ```
 # Operating Environment
 ```
